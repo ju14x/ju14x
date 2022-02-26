@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![juliax5's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliax5)](https://github.com/juliax5/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliax5&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliax5&layout=compact&theme=tokyonight"/>
 
 <!--
 **juliax5/juliax5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
