@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/juliax5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliax5&show_icons=true&theme=nord"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliax5&layout=compact&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliax5&layout=compact&theme=nord"/></a>
 </div>
 
 - 🌎 [Juliana C. Machado, Brazil, 1995]
