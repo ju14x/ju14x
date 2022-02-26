@@ -1,19 +1,12 @@
-### Hi there 👋
+### Hello! C: 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliax5&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliax5&layout=compact&theme=tokyonight"/>
+- 🌱 I’m currently learning Python/Django/MySQL
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My childhood dream was to become a dentist. Then, I grew up to choose a graduation in Civil Engineering and, in the end, here I am in the I.T world. :D
+- 📫 How to reach me: <a href="mailto:jfcaiado@hotmail.com">📨</a>
 
-<!--
-**juliax5/juliax5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/juliax5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliax5&show_icons=true&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliax5&layout=compact&theme=nord"/>
+</div>
