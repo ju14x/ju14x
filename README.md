@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/juliax5">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juliax5&show_icons=true&theme=nord"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliax5&layout=compact&theme=nord"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliax5&layout=compact&show_icons=true&theme=aura_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliax5&layout=compact&theme=aura_dark"/></a>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfcm/)
