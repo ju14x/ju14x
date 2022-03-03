@@ -11,7 +11,7 @@
   
 ```
 - 🌎 ['Juliana C. Machado', 'Brazil', '1995']
-  - 🔭 I’m currently working on: Django apps, DataBase modeling
+- 🔭 I’m currently working on: Django apps, DataBase modeling
 - 🌱 I’m currently learning Python/Django/MySQL
 - 😄 Pronouns: she/her
 - ⚡ Fun and random fact: My childhood dream was to become a dentist.
