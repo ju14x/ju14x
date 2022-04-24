@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning: whatever is in my most recent activity
 - 😄 Pronouns: she/her
 - ⚡ Fun and random fact: My childhood dream was to become a dentist.
-- 📨 How to reach me: jfcaiado@hotmail.com
+- 📨 How to reach me: jfcaiado@protonmail.com
 ```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfcm/)
