@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julianacaiado/)
 
 ```
-- 🌎 juliax5 = {'name': 'Juliana C. Machado', 'country': 'Brazil', 'year_of_birth': '1995'}
+- 🌎 ju14x = {'name': 'Juliana C. Machado', 'country': 'Brazil', 'year_of_birth': '1995'}
 - 🌱 I'm currently learning: whatever is in my most recent activity
 - 😄 Pronouns: she/her
 - ⚡ Fun and random fact: My childhood dream was to become a dentist.
